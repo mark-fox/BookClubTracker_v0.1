@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ReadathonTracker</string>
+    <string name="title_home">Book List</string>
+    <string name="title_dashboard">Add Book</string>
+    <string name="title_notifications">Update Book</string>
+    <string name="new_book_name_textview">Book Name:</string>
+    <string name="new_book_name_hint">E.g. Harry Potter and the Deadly Dentist</string>
+    <string name="new_book_reader_textview">Reader:</string>
+    <string name="new_book_reader_hint">E.g. Lil Tommy</string>
+    <string name="new_book_pages_textview">Total Pages:</string>
+    <string name="new_book_pages_hint">E.g. 42</string>
+    <string name="submit_button">Submit</string>
+    <string name="empty_field_msg">Please fill in all fields</string>
+    <string name="parse_error_msg">Error converting number</string>
+    <string name="general_error_msg">Unknown error occurred</string>
+    <string name="view_pages_read_label">Pages Read:</string>
+    <string name="view_date_start_label">Start Date:</string>
+    <string name="view_update_button">Update</string>
+    <string name="view_cancel_button">Cancel</string>
+    <string name="dialog_update_text">How many pages have you read since your last update?</string>
+    <string name="dialog_update_hint">Pages...</string>
+    <string name="main_page">Let\'s Read Some Books!</string>
+    <string name="sign_in_text">Please sign in</string>
+</resources>
